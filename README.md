@@ -1,7 +1,7 @@
 ## Settings for Sublime Text 3
 
-- [Soda Light 3 UI](https://github.com/buymeasoda/soda-theme)
-- [Flatland Monokai color scheme](https://github.com/thinkpixellab/flatland)
+- [Soda Light 3 UI](https://github.com/buymeasoda/soda-theme) - Sublime Text UI theme
+- [Flatland Monokai color scheme](https://github.com/thinkpixellab/flatland) - Sublime Text Color Scheme
 - [ApplySyntax](https://github.com/facelessuser/ApplySyntax) - Syntax detector
 - [CodeIvate](https://github.com/codeivate/codeivate-st) - A personal-analytics service for programmers. See [codeivate.com](http://www.codeivate.com) for more info.
 - [Color Highlighter](https://github.com/Monnoroch/ColorHighlighter) - Underlays selected hexadecimal colorcodes with their real color.
