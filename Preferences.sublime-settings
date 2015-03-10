@@ -1,0 +1,22 @@
+{
+	"auto_complete": true,
+	"auto_complete_commit_on_tab": true,
+	"caret_extra_width": 2,
+	"color_scheme": "Packages/User/SublimeLinter/Flatland Monokai (SL).tmTheme",
+	"font_size": 15,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Markdown",
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"overlay_scroll_bars": "enabled",
+	"soda_classic_tabs": false,
+	"soda_folder_icons": true,
+	"theme": "Soda Light 3.sublime-theme"
+}
