@@ -10,7 +10,7 @@
   "indent_after_task": false, // indenting the next line after tasks
   "new_on_top": true, // how to sort archived tasks
 
-  "color_scheme": "Packages/PlainTasks/tasks-bright-spacegray.hidden-tmTheme",
+  "color_scheme": "Packages/PlainTasks/tasks-markdown.hidden-tmTheme",
   "font_size": 15,
   "font_face": "Source Hack Pro",
   "draw_indent_guides": false,

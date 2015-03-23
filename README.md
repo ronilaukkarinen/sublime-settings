@@ -10,8 +10,9 @@
 - [Emmet](https://github.com/sergeche/emmet-sublime) - Improves HTML & CSS workflow
 - [Super Calculator](https://github.com/Pephers/Super-Calculator) - Perform quick inline calculations with a simple keypress (Alt+C)
 - [CSSComb](http://csscomb.com/) - Makes your code beautiful
-- [PlainTasks](https://github.com/aziz/PlainTasks) - An opinionated todo-list
+- [PlainTasks](https://github.com/aziz/PlainTasks) - An opinionated todo-list (with [PlainTasks Markdown Theme](https://github.com/ronilaukkarinen/plaintasks-markdown))
 - [SFTP](http://wbond.net/sublime_packages/sftp) - Save file instantly on SFTP server and browser files (premium $20)
 - [WakaTime](https://wakatime.com/) - Automatic time tracking & insights into your programming
 - [GitHubMarkdownPreview](https://github.com/dotcypress/GitHubMarkdownPreview) - GitHub Flavored Markdown
 - [SCSS Bundle](https://github.com/MarioRicalde/SCSS.tmbundle) - The TextMate SCSS Official Bundle. Now Compatible with SublimeText
+- [Distraction Free Window for SublimeText](https://github.com/aziz/DistractionFreeWindow) - SublimeText "Distraction free mode" but not full-screen! A windowed UI is more manageable and accessible yet it can be simple and sublime!
