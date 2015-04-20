@@ -17,7 +17,7 @@
 	],
 	"itg_sidebar_tree_xlarge": true,
 	"itg_small_tabs": true,
-	"overlay_scroll_bars": "disabled",
+	"overlay_scroll_bars": "enabled",
 	"soda_classic_tabs": false,
 	"soda_folder_icons": true,
 	"theme": "itg.flat.dark.sublime-theme"
