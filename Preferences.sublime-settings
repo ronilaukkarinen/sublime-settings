@@ -2,7 +2,7 @@
 	"auto_complete": true,
 	"auto_complete_commit_on_tab": true,
 	"caret_extra_width": 2,
-	"color_scheme": "Packages/User/SublimeLinter/itg.dark (SL).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/itg.flat-Flatland Monokai (SL).tmTheme",
 	"font_size": 15,
 	"highlight_line": true,
 	"ignored_packages":
@@ -15,9 +15,10 @@
 		"draw_normal",
 		"draw_active"
 	],
-	"overlay_scroll_bars": "enabled",
+	"itg_sidebar_tree_xlarge": true,
+	"itg_small_tabs": true,
+	"overlay_scroll_bars": "disabled",
 	"soda_classic_tabs": false,
 	"soda_folder_icons": true,
-	"theme": "itg.flat.dark.sublime-theme",
-	"itg_sidebar_tree_xlarge": true
+	"theme": "itg.flat.dark.sublime-theme"
 }
