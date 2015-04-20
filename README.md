@@ -2,6 +2,7 @@
 
 - [Soda Light 3 UI](https://github.com/buymeasoda/soda-theme) - Sublime Text UI theme
 - [Flatland Monokai color scheme](https://github.com/thinkpixellab/flatland) - Sublime Text Color Scheme
+- [theme-itg-flat](https://github.com/itsthatguy/theme-itg-flat) - A flat theme for Sublime Text that supports both retina and non-retina.
 - [ApplySyntax](https://github.com/facelessuser/ApplySyntax) - Syntax detector
 - [CodeIvate](https://github.com/codeivate/codeivate-st) - A personal-analytics service for programmers. See [codeivate.com](http://www.codeivate.com) for more info.
 - [Color Highlighter](https://github.com/Monnoroch/ColorHighlighter) - Underlays selected hexadecimal colorcodes with their real color.

@@ -2,13 +2,13 @@
 	"auto_complete": true,
 	"auto_complete_commit_on_tab": true,
 	"caret_extra_width": 2,
-	"color_scheme": "Packages/User/SublimeLinter/Flatland Monokai (SL).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/itg.dark (SL).tmTheme",
 	"font_size": 15,
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"Markdown",
-		"Vintage"
+		"Vintage",
+		"Markdown"
 	],
 	"indent_guide_options":
 	[
@@ -18,5 +18,6 @@
 	"overlay_scroll_bars": "enabled",
 	"soda_classic_tabs": false,
 	"soda_folder_icons": true,
-	"theme": "Soda Light 3.sublime-theme"
+	"theme": "itg.flat.dark.sublime-theme",
+	"itg_sidebar_tree_xlarge": true
 }
