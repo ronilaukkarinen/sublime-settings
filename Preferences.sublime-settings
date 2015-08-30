@@ -3,12 +3,14 @@
 	"auto_complete_commit_on_tab": true,
 	"caret_extra_width": 2,
 	"color_scheme": "Packages/User/SublimeLinter/itg.flat-Flatland Monokai (SL).tmTheme",
-	"font_size": 15,
+	"font_face": "Hack",
+	"font_size": 14,
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"Vintage",
-		"Markdown"
+		"Markdown",
+		"Color Highlighter",
+		"Vintage"
 	],
 	"indent_guide_options":
 	[
@@ -17,6 +19,8 @@
 	],
 	"itg_sidebar_tree_xlarge": true,
 	"itg_small_tabs": true,
+	"line_padding_bottom": -1,
+	"line_padding_top": 0,
 	"overlay_scroll_bars": "enabled",
 	"soda_classic_tabs": false,
 	"soda_folder_icons": true,

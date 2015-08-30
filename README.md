@@ -4,6 +4,12 @@ My settings for Sublime Text. If you want to use **Flatland Monokai** with **itg
 
 ![Screenshot](https://raw.githubusercontent.com/ronilaukkarinen/sublime-settings/master/screenshot.png "Look how sexy I am.")
 
+### Installation
+
+1. [Download and unzip](https://github.com/ronilaukkarinen/sublime-settings/archive/master.zip)
+2. [Download Hack font and install it](http://sourcefoundry.org/hack/)
+3. Copy the files over in Sublime Text
+
 #### Currently active packages
 
 - [Soda Light 3 UI](https://github.com/buymeasoda/soda-theme) - Sublime Text UI theme
