@@ -24,3 +24,5 @@ My settings for Sublime Text. If you want to use **Flatland Monokai** with **itg
 - [SCSS Bundle](https://github.com/MarioRicalde/SCSS.tmbundle) - The TextMate SCSS Official Bundle. Now Compatible with SublimeText
 - [Distraction Free Window for SublimeText](https://github.com/aziz/DistractionFreeWindow) - SublimeText "Distraction free mode" but not full-screen! A windowed UI is more manageable and accessible yet it can be simple and sublime!
 - [Clickable URLS](https://github.com/leonid-shevtsov/ClickableUrls_SublimeText) - Underlines URLs in Sublime Text, and lets you open them with a keystroke.
+- [CSSfmt](https://github.com/dmnsgn/sublime-cssfmt) - Sublime Text plugin for [CSSfmt](https://github.com/morishitter/cssfmt)
+- [FuzzyFilePath](https://github.com/sagold/FuzzyFilePath) - Autocomplete relative or absolute file paths in Sublime Text project folder
