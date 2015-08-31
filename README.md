@@ -1,6 +1,6 @@
 ## Settings for Sublime Text 3
 
-My settings for Sublime Text. If you want to use **Flatland Monokai** with **itg-flat** background color, copy `itg.flat-Flatland Monokai (SL).tmTheme` to `Packages/User/SublimeLinter`.
+My settings for Sublime Text. If you want to use **Flatland Monokai** with **itg-flat** background color, copy `itg.flat-Flatland Monokai (SL).tmTheme` to `Packages/User/`.
 
 ![Screenshot](https://raw.githubusercontent.com/ronilaukkarinen/sublime-settings/master/screenshot.png "Look how sexy I am.")
 
