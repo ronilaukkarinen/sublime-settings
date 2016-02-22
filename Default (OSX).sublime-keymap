@@ -1,0 +1,7 @@
+[
+  { "keys": ["super+shift+k", "super+shift+t"], "command": "simple_todo", "args": {"mode": "list"} },
+  { "keys": ["super+shift+k", "super+shift+a"], "command": "simple_todo", "args": {"mode": "add"} },
+  { "keys": ["super+alt+a"], "command": "plain_tasks_archive","context": [{ "key": "selector", "operator": "equal", "operand": "text.todo" }] },
+  { "keys": ["super+v"], "command": "paste_and_indent" },
+  { "keys": ["super+shift+v"], "command": "paste" }  
+]
