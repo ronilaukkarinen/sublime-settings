@@ -2,7 +2,11 @@
 
 My settings for Sublime Text. If you want to use **Flatland Monokai** with **itg-flat** background color, copy `itg.flat-Flatland Monokai (SL).tmTheme` to `Packages/User/`.
 
+![Screenshot](https://raw.githubusercontent.com/ronilaukkarinen/sublime-settings/master/screenshot-spacegray.png "Look how sexy I am.")
+Spacegray / Flatland-Monokai
+
 ![Screenshot](https://raw.githubusercontent.com/ronilaukkarinen/sublime-settings/master/screenshot.png "Look how sexy I am.")
+itg.flat-Flatland Monokai
 
 ### Installation
 
@@ -18,9 +22,7 @@ My settings for Sublime Text. If you want to use **Flatland Monokai** with **itg
 - [theme-itg-flat](https://github.com/itsthatguy/theme-itg-flat) - A flat theme for Sublime Text that supports both retina and non-retina.
 - [CodeIvate](https://github.com/codeivate/codeivate-st) - A personal-analytics service for programmers. See [codeivate.com](http://www.codeivate.com) for more info.
 - [Color Highlighter](https://github.com/Monnoroch/ColorHighlighter) - Underlays selected hexadecimal colorcodes with their real color.
-- [HTMLBeautify](https://github.com/rareyman/HTMLBeautify) - Formats (indents) HTML source code. It makes code easier for humans to read.
 - [MarkdownEditing](https://github.com/SublimeText-Markdown/MarkdownEditing) - Powerful Markdown package with better syntax understanding and good color schemes.
-- [Emmet](https://github.com/sergeche/emmet-sublime) - Improves HTML & CSS workflow
 - [PlainTasks](https://github.com/aziz/PlainTasks) - An opinionated todo-list (with [PlainTasks Markdown Theme](https://github.com/ronilaukkarinen/plaintasks-markdown))
 - [WakaTime](https://wakatime.com/) - Automatic time tracking & insights into your programming
 - [GitHubMarkdownPreview](https://github.com/dotcypress/GitHubMarkdownPreview) - GitHub Flavored Markdown
