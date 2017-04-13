@@ -3,5 +3,11 @@
   { "keys": ["super+shift+k", "super+shift+a"], "command": "simple_todo", "args": {"mode": "add"} },
   { "keys": ["super+alt+a"], "command": "plain_tasks_archive","context": [{ "key": "selector", "operator": "equal", "operand": "text.todo" }] },
   { "keys": ["super+v"], "command": "paste_and_indent" },
-  { "keys": ["super+shift+v"], "command": "paste" }  
+  { "keys": ["super+shift+v"], "command": "paste" },
+  { "keys": ["super+shift+o"], "command": "project_manager", "args": {"action": "new"}},
+  { "keys": ["super+shift+right"], "command": "sublimelinter_goto_error", "args": {"direction": "next"}},
+  { "keys": ["super+shift+down"], "command": "sublimelinter_goto_error", "args": {"direction": "next"}},
+  { "keys": ["super+shift+up"], "command": "sublimelinter_goto_error", "args": {"direction": "previous"}},
+  { "keys": ["super+shift+left"], "command": "sublimelinter_goto_error", "args": {"direction": "previous"}},
+  { "keys": ["super+shift+a"], "command": "sublimelinter_show_all_errors"}  
 ]
