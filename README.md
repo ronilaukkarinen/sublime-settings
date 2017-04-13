@@ -28,7 +28,11 @@ itg.flat-Flatland Monokai
 - [GitHubMarkdownPreview](https://github.com/dotcypress/GitHubMarkdownPreview) - GitHub Flavored Markdown
 - [SCSS Bundle](https://github.com/MarioRicalde/SCSS.tmbundle) - The TextMate SCSS Official Bundle. Now Compatible with SublimeText
 - [Clickable URLS](https://github.com/leonid-shevtsov/ClickableUrls_SublimeText) - Underlines URLs in Sublime Text, and lets you open them with a keystroke.
-- [CSSfmt](https://github.com/dmnsgn/sublime-cssfmt) - Sublime Text plugin for [CSSfmt](https://github.com/morishitter/cssfmt)
+- [Stylefmt](https://github.com/dmnsgn/sublime-stylefmt) - Sublime Text plugin for [CSSfmt](https://github.com/morishitter/cssfmt)
+- [CodeStats](https://github.com/Nicd/code-stats-sublime) - Code::Stats plugin for Sublime Text 3
+- [ProjectManager](https://github.com/randy3k/ProjectManager) - Project Manager for Sublime Text 3
+- [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter3) - Interactive code linting framework for Sublime Text 3
+- [Status Bar File Size](https://github.com/SublimeText/StatusBarFileSize) - Show the file size in the Sublime Text status bar
 
 #### Mods
 
