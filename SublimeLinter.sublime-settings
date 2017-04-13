@@ -1,0 +1,93 @@
+{
+    "user": {
+        "debug": true,
+        "delay": 0.25,
+        "error_color": "D02000",
+        "gutter_theme": "Packages/SublimeLinter/gutter-themes/Default/Default.gutter-theme",
+        "gutter_theme_excludes": [],
+        "lint_mode": "background",
+        "linters": {
+            "csslint": {
+                "@disable": false,
+                "args": [],
+                "errors": "",
+                "excludes": [],
+                "ignore": "",
+                "warnings": ""
+            },
+            "htmltidy": {
+                "@disable": false,
+                "args": [],
+                "excludes": [],
+                "ignore_match": {
+                    "php": [
+                        "missing <!DOCTYPE> declaration",
+                        "inserting (?:implicit <body>|missing 'title' element)",
+                        "[^.]*(?:malformed URI|discarding unexpected)",
+                    ]
+                }
+            },
+            "jshint": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
+            },
+            "phpcs": {
+                "@disable": false,
+                "args": [],
+                "excludes": [],
+                "standard": "WordPress",
+                "ignore_match": {
+                    "php": [
+                        "missing <!DOCTYPE> declaration",
+                        "inserting (?:implicit <body>|missing 'title' element)",
+                        "[^.]*(?:tabs are not allowed|spaces are not allowed|indented incorrectly|escaping function)"
+                    ]
+                }
+
+            },
+            "sass": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
+            },
+            "scss": {
+                "@disable": false,
+                "args": [],
+                "exclude-linter": "",
+                "excludes": [],
+                "include-linter": ""
+            }
+        },
+        "mark_style": "outline",
+        "no_column_highlights_line": false,
+        "passive_warnings": false,
+        "paths": {
+            "linux": [],
+            "osx": [],
+            "windows": []
+        },
+        "python_paths": {
+            "linux": [],
+            "osx": [],
+            "windows": []
+        },
+        "rc_search_limit": 3,
+        "shell_timeout": 10,
+        "show_errors_on_save": false,
+        "show_marks_in_minimap": true,
+        "syntax_map": {
+            "html (django)": "html",
+            "html (rails)": "html",
+            "html 5": "html",
+            "php": "html",
+            "python django": "python"
+        },
+        "tooltip_fontsize": "1rem",
+        "tooltip_theme": "Packages/SublimeLinter/tooltip-themes/Default/Default.tooltip-theme",
+        "tooltip_theme_excludes": [],
+        "tooltips": false,
+        "warning_color": "DDB700",
+        "wrap_find": true                           
+    }
+}
