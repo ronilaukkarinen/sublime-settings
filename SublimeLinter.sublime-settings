@@ -23,7 +23,7 @@
                     "php": [
                         "missing <!DOCTYPE> declaration",
                         "inserting (?:implicit <body>|missing 'title' element)",
-                        "[^.]*(?:malformed URI|discarding unexpected|is not recognized)",
+                        "[^.]*(?:malformed URI|discarding unexpected|is not recognized)"
                     ]
                 }
             },
@@ -36,15 +36,14 @@
                 "@disable": false,
                 "args": [],
                 "excludes": [],
-                "standard": "WordPress",
                 "ignore_match": {
                     "php": [
                         "missing <!DOCTYPE> declaration",
                         "inserting (?:implicit <body>|missing 'title' element)",
-                        "[^.]*(?:tabs are not allowed|spaces are not allowed|indented incorrectly|spaces but found|escaping function)"
+                        "[^.]*(?:tabs are not allowed|spaces are not allowed|indented incorrectly|spaces but found|escaping function|array declaration must end in a comma)"
                     ]
-                }
-
+                },
+                "standard": "WordPress"
             },
             "sass": {
                 "@disable": false,
@@ -88,6 +87,6 @@
         "tooltip_theme_excludes": [],
         "tooltips": false,
         "warning_color": "DDB700",
-        "wrap_find": true                           
+        "wrap_find": true
     }
 }
