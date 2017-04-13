@@ -33,6 +33,7 @@ itg.flat-Flatland Monokai
 - [ProjectManager](https://github.com/randy3k/ProjectManager) - Project Manager for Sublime Text 3
 - [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter3) - Interactive code linting framework for Sublime Text 3
 - [Status Bar File Size](https://github.com/SublimeText/StatusBarFileSize) - Show the file size in the Sublime Text status bar
+- [Gitignored File Excluder](https://github.com/ExplodingCabbage/sublime-gitignorer) - Sublime plugin that excludes from your Sublime project any files ignored by git
 
 #### Mods
 
