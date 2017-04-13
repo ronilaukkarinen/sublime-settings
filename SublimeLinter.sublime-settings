@@ -23,7 +23,7 @@
                     "php": [
                         "missing <!DOCTYPE> declaration",
                         "inserting (?:implicit <body>|missing 'title' element)",
-                        "[^.]*(?:malformed URI|discarding unexpected)",
+                        "[^.]*(?:malformed URI|discarding unexpected|is not recognized)",
                     ]
                 }
             },
@@ -41,7 +41,7 @@
                     "php": [
                         "missing <!DOCTYPE> declaration",
                         "inserting (?:implicit <body>|missing 'title' element)",
-                        "[^.]*(?:tabs are not allowed|spaces are not allowed|indented incorrectly|escaping function)"
+                        "[^.]*(?:tabs are not allowed|spaces are not allowed|indented incorrectly|spaces but found|escaping function)"
                     ]
                 }
 
