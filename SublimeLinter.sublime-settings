@@ -23,7 +23,7 @@
                     "php": [
                         "missing <!DOCTYPE> declaration",
                         "inserting (?:implicit <body>|missing 'title' element)",
-                        "[^.]*(?:malformed URI|discarding unexpected|is not recognized)"
+                        "[^.]*(?:malformed URI|discarding unexpected|is not recognized|discarding unexpected)"
                     ]
                 }
             },
@@ -40,7 +40,8 @@
                     "php": [
                         "missing <!DOCTYPE> declaration",
                         "inserting (?:implicit <body>|missing 'title' element)",
-                        "[^.]*(?:tabs are not allowed|spaces are not allowed|indented incorrectly|spaces but found|escaping function|array declaration must end in a comma)"
+                        "[^.]*(?:tabs are not allowed|short description must start with a capital letter|spaces are not allowed|indented incorrectly|spaces but found|escaping function|array declaration must end in a comma)",
+                        "Silencing errors is discouraged"
                     ]
                 },
                 "standard": "WordPress"
