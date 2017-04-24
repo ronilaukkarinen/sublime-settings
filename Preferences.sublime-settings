@@ -2,14 +2,74 @@
 	"auto_complete": true,
 	"auto_complete_commit_on_tab": true,
 	"caret_extra_width": 2,
-	"color_scheme": "Packages/User/itg.flat-Flatland Monokai (SL).tmTheme",
+	"close_windows_when_empty": true,
+	"color_scheme": "Packages/User/itg-flatland-monokai-2017.tmTheme",
+	"extra_file_exclude_patterns":
+	[
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db",
+		"*.sublime-workspace"
+	],
+	"extra_folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS"
+	],
+	"file_exclude_patterns":
+	[
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db",
+		"*.sublime-workspace"
+	],
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS"
+	],
 	"font_face": "Hack",
-	"font_size": 14,
+	"font_size": 15,
 	"highlight_line": true,
 	"ignored_packages":
 	[
 		"Markdown",
-		"Color Highlighter",
 		"Vintage"
 	],
 	"indent_guide_options":
@@ -17,12 +77,14 @@
 		"draw_normal",
 		"draw_active"
 	],
-	"itg_sidebar_tree_xlarge": true,
-	"itg_small_tabs": true,
-	"line_padding_bottom": -1,
+	"line_padding_bottom": 0,
 	"line_padding_top": 0,
-	"overlay_scroll_bars": "enabled",
+	"overlay_scroll_bars": "false",
 	"soda_classic_tabs": false,
-	"soda_folder_icons": true,
-	"theme": "itg.flat.dark.sublime-theme"
+	"soda_folder_icons": false,
+	"spacegray_fileicons": true,
+	"spacegray_sidebar_font_normal": true,
+	"spacegray_tabs_font_small": true,
+	"tab_size": 2,
+	"theme": "Spacegray.sublime-theme"
 }
