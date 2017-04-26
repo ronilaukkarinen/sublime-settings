@@ -40,13 +40,13 @@
                     "php": [
                         "missing <!DOCTYPE> declaration",
                         "inserting (?:implicit <body>|missing 'title' element)",
-                        "[^.]*(?:tabs are not allowed|errors is discouraged|file_get_contents is highly discouraged|comments must end|short description must start with a capital letter|spaces are not allowed|indented incorrectly|spaces but found|escaping function|array declaration must end in a comma)"
+                        "[^.]*(?:tabs are not allowed|admin bar is prohibited|function doc comment|errors is discouraged|file_get_contents is highly discouraged|comments must end|short description must start with a capital letter|spaces are not allowed|indented incorrectly|spaces but found|escaping function|array declaration must end in a comma)"
                     ]
                 },
                 "standard": "WordPress"
             },
             "sass": {
-                "@disable": false,
+                "@disable": true,
                 "args": [],
                 "excludes": []
             },
