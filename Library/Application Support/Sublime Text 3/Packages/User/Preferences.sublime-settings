@@ -86,5 +86,6 @@
 	"spacegray_sidebar_font_normal": true,
 	"spacegray_tabs_font_small": true,
 	"tab_size": 2,
-	"theme": "Spacegray.sublime-theme"
+	"theme": "Spacegray.sublime-theme",
+	"word_separators": "./\\()\"':,.;<>~!@#%^&*|+=[]{}`~?"
 }

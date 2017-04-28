@@ -9,10 +9,9 @@
   "archive_name": "Archive:", // make sure it is the unique project name within your todo files
   "indent_after_task": false, // indenting the next line after tasks
   "new_on_top": true, // how to sort archived tasks
-
-  "color_scheme": "Packages/PlainTasks/tasks-markdown.hidden-tmTheme",
+  "color_scheme": "Packages/tasks-markdown.hidden-tmTheme",
   "font_size": 15,
-  "font_face": "Source Hack Pro",
+  "font_face": "Helvetica Light",
   "draw_indent_guides": false,
   "line_numbers": false,
   "gutter": true,
@@ -27,7 +26,7 @@
   "line_padding_top": 3,
   "draw_centered": true,
   "word_wrap": true,
-  "wrap_width": 80,
+  "wrap_width": 50,
   "extensions":
   [
     "TODO",

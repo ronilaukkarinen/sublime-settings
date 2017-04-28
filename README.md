@@ -1,11 +1,13 @@
 ## Settings for Sublime Text 3
 
-My settings for Sublime Text. If you want to use **Flatland Monokai** with **itg-flat** background color, copy `itg.flat-Flatland Monokai (SL).tmTheme` to `Packages/User/`.
+My settings, plugins and themes for Sublime Text. Copy, edit or overwrite desired files to your to `Packages/User/`.
 
-![Screenshot](https://raw.githubusercontent.com/ronilaukkarinen/sublime-settings/master/screenshot-spacegray.png "Look how sexy I am.")
+All files are symlinked to my Sublime Text Application Support folder, so settings are always up to date.
+
+![Screenshot](https://rolle.wtf/sublime-settings-screenshot-spacegray.png "Screenshot")
 Spacegray / Flatland-Monokai
 
-![Screenshot](https://raw.githubusercontent.com/ronilaukkarinen/sublime-settings/master/screenshot.png "Look how sexy I am.")
+![Screenshot](https://rolle.wtf/sublime-settings-screenshot.png "Screenshot")
 itg.flat-Flatland Monokai
 
 ### Installation
@@ -18,22 +20,42 @@ itg.flat-Flatland Monokai
 
 #### Currently active packages
 
-- [Flatland Monokai color scheme](https://github.com/thinkpixellab/flatland) - Sublime Text Color Scheme
-- [theme-itg-flat](https://github.com/itsthatguy/theme-itg-flat) - A flat theme for Sublime Text that supports both retina and non-retina.
-- [CodeIvate](https://github.com/codeivate/codeivate-st) - A personal-analytics service for programmers. See [codeivate.com](http://www.codeivate.com) for more info.
-- [Color Highlighter](https://github.com/Monnoroch/ColorHighlighter) - Underlays selected hexadecimal colorcodes with their real color.
-- [MarkdownEditing](https://github.com/SublimeText-Markdown/MarkdownEditing) - Powerful Markdown package with better syntax understanding and good color schemes.
-- [PlainTasks](https://github.com/aziz/PlainTasks) - An opinionated todo-list (with [PlainTasks Markdown Theme](https://github.com/ronilaukkarinen/plaintasks-markdown))
-- [WakaTime](https://wakatime.com/) - Automatic time tracking & insights into your programming
-- [GitHubMarkdownPreview](https://github.com/dotcypress/GitHubMarkdownPreview) - GitHub Flavored Markdown
-- [SCSS Bundle](https://github.com/MarioRicalde/SCSS.tmbundle) - The TextMate SCSS Official Bundle. Now Compatible with SublimeText
-- [Clickable URLS](https://github.com/leonid-shevtsov/ClickableUrls_SublimeText) - Underlines URLs in Sublime Text, and lets you open them with a keystroke.
-- [Stylefmt](https://github.com/dmnsgn/sublime-stylefmt) - Sublime Text plugin for [CSSfmt](https://github.com/morishitter/cssfmt)
-- [CodeStats](https://github.com/Nicd/code-stats-sublime) - Code::Stats plugin for Sublime Text 3
-- [ProjectManager](https://github.com/randy3k/ProjectManager) - Project Manager for Sublime Text 3
-- [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter3) - Interactive code linting framework for Sublime Text 3
-- [Status Bar File Size](https://github.com/SublimeText/StatusBarFileSize) - Show the file size in the Sublime Text status bar
-- [Gitignored File Excluder](https://github.com/ExplodingCabbage/sublime-gitignorer) - Sublime plugin that excludes from your Sublime project any files ignored by git
+```` shell
+rolle at bliss in ~/Library/Application Support/Sublime Text 3/Installed Packages  
+$ ls -1
+0_package_control_loader.sublime-package
+Accessibility.sublime-package
+Alignment.sublime-package
+All Autocomplete.sublime-package
+ChannelRepositoryTools.sublime-package
+Clickable URLs.sublime-package
+CodeStats.sublime-package
+Codeivate.sublime-package
+Color Highlighter.sublime-package
+Colour Complete.sublime-package
+Generic Config.sublime-package
+GitHub Flavored Markdown Preview.sublime-package
+Gitignored File Excluder.sublime-package
+JavaScriptNext - ES6 Syntax.sublime-package
+Javascript Beautify.sublime-package
+MarkdownEditing.sublime-package
+Monokai Extended.sublime-package
+Package Control.sublime-package
+ProjectManager.sublime-package
+PyV8
+QuickGotoAnything.sublime-package
+SCSS Snippets.sublime-package
+SCSS.sublime-package
+SassBeautify.sublime-package
+Simple Print Function.sublime-package
+Status Bar File Size.sublime-package
+SublimeLinter-contrib-scss-lint.sublime-package
+SublimeLinter-html-tidy.sublime-package
+SublimeLinter-jshint.sublime-package
+Theme - Spacegray.sublime-package
+Theme - itg.flat.sublime-package
+nginx.sublime-package
+````
 
 #### Mods
 
