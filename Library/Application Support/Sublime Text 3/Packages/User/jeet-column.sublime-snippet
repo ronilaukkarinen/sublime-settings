@@ -2,9 +2,9 @@
     <!-- Type `column` and hit tab to output the column() mixin. -->
     <!-- The cursor will be placed inside of the mixin's parenthesis for ease of entering a column size. -->
     <content><![CDATA[
-@include column(${1:8});
+@include column(${1:1/3});
 ]]></content>
     <tabTrigger>col</tabTrigger>
-    <description>Set a column width using Neat</description>
+    <description>Add a jeet column</description>
     <scope>source.scss</scope>
 </snippet>
