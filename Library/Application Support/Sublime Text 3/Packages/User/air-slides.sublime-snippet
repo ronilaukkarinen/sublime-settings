@@ -1,0 +1,26 @@
+<snippet>
+    <!-- Type `slide` and hit tab to output default air slides. -->
+    <content><![CDATA[
+    	<div class="slide">
+    	  <div class="container">
+
+    	    <h2></h2>
+
+    	    <div class="cols">
+    	      <div class="col">
+    	      </div><!-- .col -->
+
+    	      <div class="col">
+    	      </div><!-- .col -->
+
+    	      <div class="col">
+    	      </div><!-- .col -->          
+    	    </div><!-- .cols -->
+    	  </div><!-- .container -->
+    	</div><!-- .slide -->
+
+]]></content>
+    <tabTrigger>slide</tabTrigger>
+    <description>Air WordPress theme slides</description>
+    <scope>text.php</scope>
+</snippet>
