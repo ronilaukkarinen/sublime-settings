@@ -22,5 +22,5 @@
 ]]></content>
     <tabTrigger>slide</tabTrigger>
     <description>Air WordPress theme slides</description>
-    <scope>text.php</scope>
+    <scope>text.html</scope>
 </snippet>
