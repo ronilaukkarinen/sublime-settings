@@ -1,0 +1,20 @@
+{
+  // How many spaces to use for each level of indentation. "t" means use hard tabs.
+  "indent": 2,
+  // Convert underscores to dashes.
+  "dasherize": true,
+  // Output the old-style ":prop val" property syntax. Only meaningful when generating Sass.
+  "old": false,
+  // Custom environment PATH.
+  "path": false,
+  // Custom environment GEM_PATH.
+  "gemPath": false,
+  // Beautify the sass file after saving it?
+  "beautifyOnSave": true,
+  // Keep "inline" comments inline?
+  "inlineComments": true,
+  // Add a new line between selectors?
+  "newlineBetweenSelectors": true,
+  // Use single quotes everywhere
+  "useSingleQuotes": true
+}
