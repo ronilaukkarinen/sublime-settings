@@ -79,6 +79,12 @@
 	],
 	"line_padding_bottom": 0,
 	"line_padding_top": 0,
+	"on_post_save":
+	[
+		{
+			"command": "clean_css"
+		}
+	],
 	"overlay_scroll_bars": "false",
 	"soda_classic_tabs": false,
 	"soda_folder_icons": false,

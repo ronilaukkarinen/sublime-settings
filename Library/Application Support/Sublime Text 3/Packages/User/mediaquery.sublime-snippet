@@ -1,0 +1,12 @@
+<snippet>
+    <!-- Type `media` and hit tab to output the media() mixin. -->
+    <!-- The cursor will be placed inside of the mixin's parenthesis for ease of entering a breakpoint. -->
+    <content><![CDATA[
+@media max-width(${1:\$container-ipad}) {
+
+}
+]]></content>
+    <tabTrigger>media</tabTrigger>
+    <description>WDS Media Query</description>
+    <scope>source.scss</scope>
+</snippet>

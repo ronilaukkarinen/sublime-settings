@@ -1,0 +1,14 @@
+<snippet>
+    <!-- Type `bracket` and hit tab to open a bracket with a closing comment. -->
+    <!-- Type the class for the element you are styling and it is placed at the top and in the comment after the closing bracket -->
+    <!-- Hit tab a second time to put your cursor into a beautifuly tabbed spot within the bracket -->
+    <content><![CDATA[
+${1:this} {
+    $2
+} // ${1:this}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>bracket</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.scss</scope>
+</snippet>
