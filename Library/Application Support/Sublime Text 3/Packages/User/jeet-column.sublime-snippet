@@ -4,7 +4,7 @@
     <content><![CDATA[
 @include column(${1:8});
 ]]></content>
-    <tabTrigger>span-columns</tabTrigger>
+    <tabTrigger>col</tabTrigger>
     <description>Set a column width using Neat</description>
     <scope>source.scss</scope>
 </snippet>
