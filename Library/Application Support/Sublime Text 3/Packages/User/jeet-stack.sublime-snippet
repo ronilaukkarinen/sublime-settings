@@ -2,7 +2,7 @@
     <!-- Type `stack` and hit tab to output the media() mixin. -->
     <!-- The cursor will be placed inside of the mixin's parenthesis for ease of entering a breakpoint. -->
     <content><![CDATA[
-@media max-width(${1:\$container-ipad}) {
+@media(max-width: ${1:\$container-ipad}) {
 	@include stack();
 	margin-bottom: 30px;
 }
