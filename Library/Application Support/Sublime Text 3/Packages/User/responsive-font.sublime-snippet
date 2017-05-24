@@ -1,7 +1,7 @@
 <snippet>
     <!-- Type `font` and hit tab to output the responsive-font() mixin. -->
     <content><![CDATA[
-@include responsive-font(${1:6vw, 38px, 120px});
+@include responsive-font(${1:3vw, 16px, 21px});
 ]]></content>
     <tabTrigger>font</tabTrigger>
     <description>Responsive font</description>
