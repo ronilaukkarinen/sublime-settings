@@ -9,5 +9,5 @@
   { "keys": ["super+shift+down"], "command": "sublimelinter_goto_error", "args": {"direction": "next"}},
   { "keys": ["super+shift+up"], "command": "sublimelinter_goto_error", "args": {"direction": "previous"}},
   { "keys": ["super+shift+left"], "command": "sublimelinter_goto_error", "args": {"direction": "previous"}},
-  { "keys": ["super+shift+a"], "command": "sublimelinter_show_all_errors"}  
+  { "keys": ["super+shift+a"], "command": "sublimelinter_show_all_errors"}
 ]
