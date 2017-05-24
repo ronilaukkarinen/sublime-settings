@@ -5,6 +5,10 @@
 @media(max-width: ${1:\$container-ipad}) {
 	@include stack();
 	margin-bottom: 30px;
+
+	&:last-child {
+		margin-bottom: 0;
+	}
 }
 ]]></content>
     <tabTrigger>stack</tabTrigger>
