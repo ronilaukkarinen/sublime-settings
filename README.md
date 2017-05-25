@@ -27,6 +27,8 @@ $ ls -1
 Accessibility.sublime-package
 Alignment.sublime-package
 All Autocomplete.sublime-package
+BracketHighlighter.sublime-package
+CSS3.sublime-package
 ChannelRepositoryTools.sublime-package
 Clickable URLs.sublime-package
 CodeStats.sublime-package
@@ -34,6 +36,7 @@ Codeivate.sublime-package
 Color Highlighter.sublime-package
 Colour Complete.sublime-package
 Generic Config.sublime-package
+GitGutter.sublime-package
 GitHub Flavored Markdown Preview.sublime-package
 Gitignored File Excluder.sublime-package
 JavaScriptNext - ES6 Syntax.sublime-package
@@ -44,12 +47,13 @@ Package Control.sublime-package
 ProjectManager.sublime-package
 PyV8
 QuickGotoAnything.sublime-package
+SCSS Expander.sublime-package
 SCSS Snippets.sublime-package
 SCSS.sublime-package
-SassBeautify.sublime-package
 Simple Print Function.sublime-package
 Status Bar File Size.sublime-package
 SublimeLinter-contrib-scss-lint.sublime-package
+SublimeLinter-contrib-sublime-syntax.sublime-package
 SublimeLinter-html-tidy.sublime-package
 SublimeLinter-jshint.sublime-package
 Theme - Spacegray.sublime-package
