@@ -74,8 +74,8 @@
 	],
 	"indent_guide_options":
 	[
-		"draw_normal",
-		"draw_active"
+		"draw_active",
+		"draw_normal"
 	],
 	"line_padding_bottom": 0,
 	"line_padding_top": 0,
