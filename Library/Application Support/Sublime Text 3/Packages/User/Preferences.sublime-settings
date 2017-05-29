@@ -66,7 +66,7 @@
 	],
 	"font_face": "Hack",
 	"font_size": 15,
-	"highlight_line": true,
+	"highlight_line": false,
 	"ignored_packages":
 	[
 		"Markdown",

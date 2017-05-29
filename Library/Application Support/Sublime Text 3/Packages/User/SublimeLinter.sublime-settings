@@ -39,7 +39,7 @@
                 "ignore_match": {
                     "php": [
                         "missing <!DOCTYPE> declaration",
-                        "inserting (?:implicit <body>|missing 'title' element)",
+                        "inserting (?:implicit <body>|missing 'title' element|forbidden query_var)",
                         "[^.]*(?:tabs are not allowed|forbidden query_var|vip_get_random_posts()|admin bar is prohibited|function doc comment|errors is discouraged|file_get_contents is highly discouraged|comments must end|short description must start with a capital letter|spaces are not allowed|indented incorrectly|spaces but found|escaping function|array declaration must end in a comma)"
                     ]
                 },
