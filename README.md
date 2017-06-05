@@ -20,7 +20,7 @@ itg.flat-Flatland Monokai
 
 ### Font choices for code
 
-Bolded have been in use for me personally.
+Bolded have been in use for me personally. Use [s9w's tool](http://s9w.github.io/font_compare/) for comparing fonts.
 
 - [Courier Prime](https://quoteunquoteapps.com/courierprime/)
 - [Courier Primal](https://github.com/localredhead/courier-primal)
@@ -32,6 +32,9 @@ Bolded have been in use for me personally.
 - [mononoki](https://madmalik.github.io/mononoki/)
 - **[Consolas](https://www.microsoft.com/typography/fonts/font.aspx?FMID=1252)**
 - [Fira Code](https://github.com/tonsky/FiraCode)
+- [Hasklig](https://github.com/i-tu/Hasklig/)
+- [Roboto Mono](https://github.com/google/fonts/tree/master/apache/robotomono)
+- [Droid Sans Mono](https://github.com/AlbertoDorado/droid-sans-mono-zeromod)
 
 #### Currently active packages
 
