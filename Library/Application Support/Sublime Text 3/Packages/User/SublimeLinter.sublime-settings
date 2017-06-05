@@ -22,8 +22,9 @@
                 "ignore_match": {
                     "php": [
                         "missing <!DOCTYPE> declaration",
+                        "(?: letter not allowed here",
                         "inserting (?:implicit <body>|missing 'title' element)",
-                        "[^.]*(?:malformed URI|missing quote mark for attribute value|discarding unexpected|is not recognized|discarding unexpected)"
+                        "[^.]*(?:malformed URI|letter not allowed here|missing quote mark for attribute value|discarding unexpected|is not recognized|discarding unexpected)"
                     ]
                 }
             },
@@ -40,7 +41,7 @@
                     "php": [
                         "missing <!DOCTYPE> declaration",
                         "inserting (?:implicit <body>|missing 'title' element|forbidden query_var)",
-                        "[^.]*(?:tabs are not allowed|forbidden query_var|vip_get_random_posts()|admin bar is prohibited|function doc comment|errors is discouraged|file_get_contents is highly discouraged|comments must end|short description must start with a capital letter|spaces are not allowed|indented incorrectly|spaces but found|escaping function|array declaration must end in a comma)"
+                        "[^.]*(?:tabs are not allowed|letter not allowed here|forbidden query_var|vip_get_random_posts()|admin bar is prohibited|function doc comment|errors is discouraged|file_get_contents is highly discouraged|comments must end|short description must start with a capital letter|spaces are not allowed|indented incorrectly|spaces but found|escaping function|array declaration must end in a comma)"
                     ]
                 },
                 "standard": "WordPress"
