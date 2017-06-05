@@ -56,9 +56,11 @@ GitHub Flavored Markdown Preview.sublime-package
 Gitignored File Excluder.sublime-package
 JavaScriptNext - ES6 Syntax.sublime-package
 Javascript Beautify.sublime-package
+LoremIpsum.sublime-package
 MarkdownEditing.sublime-package
 Monokai Extended.sublime-package
 Package Control.sublime-package
+Phpcs.sublime-package
 ProjectManager.sublime-package
 PyV8
 QuickGotoAnything.sublime-package
@@ -71,6 +73,8 @@ SublimeLinter-contrib-scss-lint.sublime-package
 SublimeLinter-contrib-sublime-syntax.sublime-package
 SublimeLinter-html-tidy.sublime-package
 SublimeLinter-jshint.sublime-package
+Super Calculator.sublime-package
+Text Pastry.sublime-package
 Theme - Spacegray.sublime-package
 Theme - itg.flat.sublime-package
 nginx.sublime-package
