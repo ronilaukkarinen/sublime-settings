@@ -18,6 +18,21 @@ itg.flat-Flatland Monokai
 4. Go to `User` directory and copy the files over
 5. Restart Sublime Text
 
+### Font choices for code
+
+Bolded have been in use for me personally.
+
+- [Courier Prime](https://quoteunquoteapps.com/courierprime/)
+- [Courier Primal](https://github.com/localredhead/courier-primal)
+- [Input](http://input.fontbureau.com/)
+- **[Hack](https://github.com/chrissimpkins/Hack)**
+- [Anonymous Pro](https://www.marksimonson.com/fonts/view/anonymous-pro)
+- **[Source Code Pro](https://github.com/adobe-fonts/source-code-pro/releases)**
+- [Inconsolata](https://github.com/google/fonts/tree/master/ofl/inconsolata)
+- [mononoki](https://madmalik.github.io/mononoki/)
+- **[Consolas](https://www.microsoft.com/typography/fonts/font.aspx?FMID=1252)**
+- [Fira Code](https://github.com/tonsky/FiraCode)
+
 #### Currently active packages
 
 ```` shell

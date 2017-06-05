@@ -1,9 +1,13 @@
 {
+	"adaptive_dividers": false,
 	"auto_complete": true,
 	"auto_complete_commit_on_tab": true,
+	"bold_folder_labels": true,
 	"caret_extra_width": 2,
 	"close_windows_when_empty": true,
 	"color_scheme": "Packages/User/itg-flatland-monokai-2017.tmTheme",
+	"draw_indent_guides": true,
+	"draw_white_space": "none",
 	"extra_file_exclude_patterns":
 	[
 		"*.pyc",
@@ -34,6 +38,7 @@
 		".hg",
 		"CVS"
 	],
+	"fade_fold_buttons": false,
 	"file_exclude_patterns":
 	[
 		"*.pyc",
@@ -64,9 +69,9 @@
 		".hg",
 		"CVS"
 	],
-	"font_face": "Hack",
-	"font_size": 15,
-	"highlight_line": false,
+	"font_face": "Consolas",
+	"font_size": 18,
+	"highlight_line": true,
 	"ignored_packages":
 	[
 		"Markdown",
@@ -74,11 +79,11 @@
 	],
 	"indent_guide_options":
 	[
-		"draw_active",
-		"draw_normal"
+		"draw_normal",
+		"draw_active"
 	],
-	"line_padding_bottom": 0,
-	"line_padding_top": 0,
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
 	"on_post_save":
 	[
 		{
