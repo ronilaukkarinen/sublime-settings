@@ -24,7 +24,7 @@
                         "missing <!DOCTYPE> declaration",
                         "(?: letter not allowed here",
                         "inserting (?:implicit <body>|missing 'title' element)",
-                        "[^.]*(?:malformed URI|letter not allowed here|missing quote mark for attribute value|discarding unexpected|is not recognized|discarding unexpected)"
+                        "[^.]*(?:malformed URI|proprietary attribute|letter not allowed here|missing quote mark for attribute value|discarding unexpected|is not recognized|discarding unexpected)"
                     ]
                 }
             },
