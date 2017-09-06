@@ -36,6 +36,7 @@
             "phpcs": {
                 "@disable": false,
                 "args": [],
+                "cmd": "/Users/rolle/Projects/phpcs/scripts/phpcs",
                 "excludes": [],
                 "ignore_match": {
                     "php": [
@@ -43,6 +44,19 @@
                         "inserting (?:implicit <body>|missing 'title' element|forbidden query_var)",
                         "[^.]*(?:tabs are not allowed|letter not allowed here|forbidden query_var|vip_get_random_posts()|admin bar is prohibited|function doc comment|errors is discouraged|file_get_contents is highly discouraged|comments must end|short description must start with a capital letter|spaces are not allowed|indented incorrectly|spaces but found|escaping function|array declaration must end in a comma)"
                     ]
+                },
+                "paths": {
+                    "linux": [
+                        "/Users/rolle/Projects/phpcs/scripts/",
+                        "/Users/rolle/Projects/phpcs/bin/",
+                        "/usr/local/bin/"
+                    ],
+                    "osx": [
+                        "/Users/rolle/Projects/phpcs/scripts/",
+                        "/Users/rolle/Projects/phpcs/bin/",
+                        "/usr/local/bin/"
+                    ],
+                    "windows": []
                 },
                 "standard": "WordPress"
             },

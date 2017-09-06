@@ -70,7 +70,7 @@
 		"CVS"
 	],
 	"font_face": "Hack",
-	"font_size": 15,
+	"font_size": 16,
 	"highlight_line": true,
 	"ignored_packages":
 	[
@@ -97,7 +97,7 @@
 	"spacegray_sidebar_font_normal": true,
 	"spacegray_tabs_font_small": true,
 	"tab_size": 2,
-	"translate_tabs_to_spaces": true,
 	"theme": "Spacegray.sublime-theme",
+	"translate_tabs_to_spaces": true,
 	"word_separators": "./\\()\"':,.;<>~!@#%^&*|+=[]{}`~?"
 }
