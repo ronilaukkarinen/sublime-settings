@@ -4,7 +4,7 @@
     <content><![CDATA[
 @media(max-width: ${1:\$container-ipad}) {
 	@include stack();
-	margin-bottom: 30px;
+	margin-bottom: 3rem;
 
 	&:last-child {
 		margin-bottom: 0;
