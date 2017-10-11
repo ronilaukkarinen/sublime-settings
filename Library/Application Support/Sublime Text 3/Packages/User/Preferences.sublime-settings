@@ -78,7 +78,7 @@
 		"content/mu-plugins"
 	],
 	"font_face": "Hack",
-	"font_size": 16,
+	"font_size": 15,
 	"highlight_line": true,
 	"ignored_packages":
 	[
