@@ -42,7 +42,7 @@
                     "php": [
                         "missing <!DOCTYPE> declaration",
                         "inserting (?:implicit <body>|missing 'title' element|forbidden query_var)",
-                        "[^.]*(?:tabs are not allowed|must be on a line by itself|get_term_links() is prohibited|not aligned correctly|get_term_by()|gettext|discouraged|Filesystem|proprietary attribute|letter not allowed here|forbidden query_var|vip_get_random_posts()|admin bar is prohibited|function doc comment|errors is discouraged|file_get_contents is highly discouraged|comments must end|short description must start with a capital letter|spaces are not allowed|indented incorrectly|spaces but found|escaping function|array declaration must end in a comma)",
+                        "[^.]*(?:tabs are not allowed|Missing file doc comment|Scripts must be registered|must be on a line by itself|get_term_links() is prohibited|not aligned correctly|get_term_by()|gettext|discouraged|Filesystem|proprietary attribute|letter not allowed here|forbidden query_var|vip_get_random_posts()|admin bar is prohibited|function doc comment|errors is discouraged|file_get_contents is highly discouraged|comments must end|short description must start with a capital letter|spaces are not allowed|indented incorrectly|spaces but found|escaping function|array declaration must end in a comma)",
                         "Detected usage of meta_key, possible slow query"
                     ]
                 },
