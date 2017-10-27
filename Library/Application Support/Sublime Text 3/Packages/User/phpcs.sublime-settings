@@ -1,6 +1,8 @@
 {
 	"phpcs_additional_args": {
- 	   "--standard": "./codesniffer.ruleset.xml",
+ 	   "--standard": "./phpcs.xml",
  	   "-n": ""
-	}
+	},
+  "phpcbf_executable_path": "/Users/rolle/Projects/phpcs/scripts/phpcbf",
+  "php_cs_fixer_executable_path": "/Users/rolle/Projects/phpcs/scripts/phpcs"
 }
