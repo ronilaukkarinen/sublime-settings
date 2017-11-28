@@ -4,8 +4,8 @@
 	"auto_complete_commit_on_tab": true,
 	"bold_folder_labels": true,
 	"caret_extra_width": 2,
-	"close_windows_when_empty": true,
-	"color_scheme": "Packages/User/itg-flatland-monokai-2017.tmTheme",
+	"close_windows_when_empty": false,
+	"color_scheme": "Packages/User/Flatland Spacegray Monokai Extended.tmTheme",
 	"draw_indent_guides": true,
 	"draw_white_space": "none",
 	"extra_file_exclude_patterns":
