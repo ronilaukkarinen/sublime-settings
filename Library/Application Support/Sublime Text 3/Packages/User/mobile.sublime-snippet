@@ -1,0 +1,11 @@
+<snippet>
+    <!-- The cursor will be placed inside of the mixin's parenthesis for ease of entering a breakpoint. -->
+    <content><![CDATA[
+@media(max-width: ${1:\$container-mobile}) {
+
+}
+]]></content>
+    <tabTrigger>mobile</tabTrigger>
+    <description>WDS Mobile Media Query</description>
+    <scope>source.scss</scope>
+</snippet>
