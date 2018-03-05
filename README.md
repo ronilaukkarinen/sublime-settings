@@ -39,7 +39,7 @@ Bolded have been in use for me personally. Use [s9w's tool](http://s9w.github.io
 #### Currently active packages
 
 ```` shell
-rolle at bliss in ~/Library/Application Support/Sublime Text 3/Installed Packages  
+rolle at bliss in ~/Library/Application Support/Sublime Text 3/Installed Packages
 $ ls -1
 0_package_control_loader.sublime-package
 Accessibility.sublime-package
@@ -50,20 +50,17 @@ CSS3.sublime-package
 ChannelRepositoryTools.sublime-package
 Clickable URLs.sublime-package
 CodeStats.sublime-package
-Codeivate.sublime-package
 Color Highlighter.sublime-package
 Colour Complete.sublime-package
 Generic Config.sublime-package
 GitGutter.sublime-package
 GitHub Flavored Markdown Preview.sublime-package
-Gitignored File Excluder.sublime-package
 JavaScriptNext - ES6 Syntax.sublime-package
 Javascript Beautify.sublime-package
 LoremIpsum.sublime-package
 MarkdownEditing.sublime-package
-Monokai Extended.sublime-package
+Monokai - Spacegray.sublime-package
 Package Control.sublime-package
-Phpcs.sublime-package
 ProjectManager.sublime-package
 PyV8
 QuickGotoAnything.sublime-package
@@ -73,11 +70,11 @@ SCSS.sublime-package
 Simple Print Function.sublime-package
 Status Bar File Size.sublime-package
 SublimeLinter-contrib-scss-lint.sublime-package
-SublimeLinter-contrib-sublime-syntax.sublime-package
-SublimeLinter-html-tidy.sublime-package
-SublimeLinter-jshint.sublime-package
+SublimeLinter-phpcs.sublime-package
+SublimeLinter.sublime-package
 Super Calculator.sublime-package
 Text Pastry.sublime-package
+Theme - Seti Monokai.sublime-package
 Theme - Spacegray.sublime-package
 Theme - itg.flat.sublime-package
 nginx.sublime-package
