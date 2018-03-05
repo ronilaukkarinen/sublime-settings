@@ -11,6 +11,16 @@
 		"lint_mode": "background",
 		"linters":
 		{
+			"bemlint":
+			{
+				"@disable": true,
+				"args":
+				[
+				],
+				"excludes":
+				[
+				]
+			},
 			"csslint":
 			{
 				"@disable": false,
@@ -26,7 +36,7 @@
 			},
 			"htmltidy":
 			{
-				"@disable": false,
+				"@disable": true,
 				"args":
 				[
 				],
@@ -70,7 +80,7 @@
 					[
 						"missing <!DOCTYPE> declaration",
 						"inserting (?:implicit <body>|missing 'title' element|forbidden query_var)",
-						"[^.]*(?:tabs are not allowed|Newline required after opening brace|Missing file doc comment|Scripts must be registered|must be on a line by itself|get_term_links() is prohibited|not aligned correctly|get_term_by()|gettext|discouraged|Filesystem|proprietary attribute|letter not allowed here|forbidden query_var|vip_get_random_posts()|admin bar is prohibited|function doc comment|errors is discouraged|file_get_contents is highly discouraged|comments must end|short description must start with a capital letter|spaces are not allowed|indented incorrectly|spaces but found|escaping function|array declaration must end in a comma)",
+						"[^.]*(?:tabs are not allowed|must contain a single statement|Newline required after opening brace|Missing file doc comment|Scripts must be registered|must be on a line by itself|get_term_links() is prohibited|not aligned correctly|get_term_by()|gettext|discouraged|Filesystem|proprietary attribute|letter not allowed here|forbidden query_var|vip_get_random_posts()|admin bar is prohibited|function doc comment|errors is discouraged|file_get_contents is highly discouraged|comments must end|short description must start with a capital letter|spaces are not allowed|indented incorrectly|spaces but found|escaping function|array declaration must end in a comma)",
 						"Detected usage of meta_key, possible slow query"
 					]
 				},
@@ -172,6 +182,7 @@
 		[
 		],
 		"tooltips": false,
+		"use_current_shell_path": false,
 		"warning_color": "DDB700",
 		"wrap_find": true
 	}
