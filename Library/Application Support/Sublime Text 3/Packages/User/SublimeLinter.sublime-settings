@@ -25,22 +25,12 @@
     // background: asynchronously on every change
     // load_save: when a file is opened and every time it's saved
     // manual: only when calling the Lint This View command
-    "lint_mode": "background",
+    "lint_mode": "background",    
     "linters":
     {
-      "bemlint":
-      {
-        "@disable": true,
-        "args":
-        [
-        ],
-        "excludes":
-        [
-        ]
-      },
       "csslint":
       {
-        "@disable": false,
+        "disable": false,
         "args":
         [
         ],
@@ -51,39 +41,10 @@
         "ignore": "",
         "warnings": ""
       },
-      "htmltidy":
-      {
-        "@disable": true,
-        "args":
-        [
-        ],
-        "excludes":
-        [
-        ],
-        "ignore_match":
-        {
-          "php":
-          [
-            "missing <!DOCTYPE> declaration",
-            "(?: letter not allowed here",
-            "inserting (?:implicit <body>|missing 'title' element)",
-            "[^.]*(?:malformed URI|attribute with missing trailing quote mark|letter not allowed here|proprietary attribute|missing quote mark for attribute value|discarding unexpected|is not recognized|discarding unexpected)"
-          ]
-        }
-      },
-      "jshint":
-      {
-        "@disable": false,
-        "args":
-        [
-        ],
-        "excludes":
-        [
-        ]
-      },
       "phpcs":
       {
-        "@disable": false,
+        "disable": false,
+        "standard": "/Users/rolle/Projects/airdev/content/themes/air/phpcs.xml",
         "args":
         [
         ],
@@ -122,7 +83,7 @@
       },
       "sass":
       {
-        "@disable": true,
+        "disable": true,
         "args":
         [
         ],
@@ -132,7 +93,7 @@
       },
       "scss":
       {
-        "@disable": false,
+        "disable": false,
         "args":
         [
         ],
@@ -144,7 +105,7 @@
       },
       "sublimesyntax":
       {
-        "@disable": false,
+        "disable": false,
         "args":
         [
         ],
