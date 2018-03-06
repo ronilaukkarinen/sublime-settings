@@ -44,7 +44,7 @@
       "phpcs":
       {
         "disable": false,
-        "standard": "/Users/rolle/Projects/airdev/content/themes/air/phpcs.xml",
+        "standard": "${folder}/content/themes/${project_base_name}/phpcs.xml",
         "args":
         [
         ],
