@@ -1,5 +1,9 @@
-import sublime
-import sublime_plugin
-class CurrentPathStatusEvent(sublime_plugin.EventListener):
-    def on_activated(self, view):
-        view.set_status('currentPath', view.file_name())
+import sublime, sublime_plugin, os
+
+class ShowFilenameInStatus(sublime_plugin.EventListener):
+  def on_activated_async(self, view):
+      filename = os.path.split(view.file_name())[1]
+      if filename is None:
+          view.erase_status('_filename')
+      else:
+          view.set_status('_filename', "File: " + filename)
