@@ -19,7 +19,7 @@
     // ProjectIcons
     // Note that you may need to change the "icon" property in "styles"
     // to an icon in the theme (they usually include "warning" and "error")
-    "gutter_theme": "Blueberry Round",
+    "gutter_theme": "Default",
 
     // Lint Modes determine when the linter is run
     // background: asynchronously on every change
@@ -45,31 +45,13 @@
       {
         "disable": false,
         "standard": "${folder}/content/themes/${project_base_name}/phpcs.xml",
+        "executable": "/Users/rolle/Projects/phpcs/scripts/phpcs",
         "args":
         [
         ],
-        "cmd": "/Users/rolle/Projects/phpcs/scripts/phpcs",
         "excludes":
         [
         ],
-        "paths":
-        {
-          "linux":
-          [
-            "/Users/rolle/Projects/phpcs/scripts/",
-            "/Users/rolle/Projects/phpcs/bin/",
-            "/usr/local/bin/"
-          ],
-          "osx":
-          [
-            "/Users/rolle/Projects/phpcs/scripts/",
-            "/Users/rolle/Projects/phpcs/bin/",
-            "/usr/local/bin/"
-          ],
-          "windows":
-          [
-          ]
-        },
       },
       "sass":
       {
@@ -84,14 +66,6 @@
       "scss":
       {
         "disable": false,
-        "args":
-        [
-        ],
-        "exclude-linter": "",
-        "excludes":
-        [
-        ],
-        "include-linter": ""
       },
       "sublimesyntax":
       {
@@ -105,18 +79,6 @@
       }
     },
     "no_column_highlights_line": false,
-    "paths":
-    {
-      "linux":
-      [
-      ],
-      "osx":
-      [
-      ],
-      "windows":
-      [
-      ]
-    },
     "show_marks_in_minimap": true,
     "syntax_map":
     {

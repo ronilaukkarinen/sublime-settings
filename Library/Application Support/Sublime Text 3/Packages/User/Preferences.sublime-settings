@@ -99,6 +99,8 @@
 		}
 	],
 	"overlay_scroll_bars": "false",
+	"scroll_speed": 0.0,
+	"show_full_path": true,
 	"soda_classic_tabs": false,
 	"soda_folder_icons": false,
 	"spacegray_fileicons": true,

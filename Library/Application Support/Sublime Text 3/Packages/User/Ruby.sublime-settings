@@ -1,0 +1,8 @@
+{
+  "env":{
+      "PATH":"/usr/local/bin:${PATH}"
+  },
+	"extensions":
+	[
+	]
+}
