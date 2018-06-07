@@ -4,10 +4,13 @@ My settings, plugins and themes for Sublime Text. Copy, edit or overwrite desire
 
 All files are symlinked to my Sublime Text Application Support folder, so settings are always up to date.
 
-![Screenshot](https://rolle.wtf/sublime-settings-screenshot-spacegray.png "Screenshot")
+![Screenshot](https://rolle.design/editor-2018.png "Screenshot")
+Custom-Monokai-Spacegray
+
+![Screenshot](https://rolle.design/sublime-settings-screenshot-spacegray.png "Screenshot")
 Spacegray / Flatland-Monokai
 
-![Screenshot](https://rolle.wtf/sublime-settings-screenshot.png "Screenshot")
+![Screenshot](https://rolle.design/sublime-settings-screenshot.png "Screenshot")
 itg.flat-Flatland Monokai
 
 ### Installation

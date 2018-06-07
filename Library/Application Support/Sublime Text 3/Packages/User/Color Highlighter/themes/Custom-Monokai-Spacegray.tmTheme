@@ -8,13 +8,13 @@
                 <key>settings</key>
                 <dict>
                     <key>background</key>
-                    <string>#2e3138</string>
+                    <string>#2b303c</string>
                     <key>foreground</key>
                     <string>#f8f8f2</string>
                     <key>caret</key>
                     <string>#F8F8F0</string>
                     <key>lineHighlight</key>
-                    <string>#202325</string>
+                    <string>#232833</string>
                     <key>misspelling</key>
                     <string>#f926729d</string>
                     <key>minimapBorder</key>
@@ -39,9 +39,9 @@
                   }
                 </string>
                     <key>gutter</key>
-                    <string>#2e3138</string>
+                    <string>#2b303c</string>
                     <key>gutterForeground</key>
-                    <string>#4f5151</string>
+                    <string>#404654</string>
                     <key>selection</key>
                     <string>#525b72</string>
                     <key>selectionForeground</key>

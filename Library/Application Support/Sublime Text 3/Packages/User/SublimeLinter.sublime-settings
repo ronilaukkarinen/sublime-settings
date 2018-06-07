@@ -52,6 +52,24 @@
         "excludes":
         [
         ],
+        "paths":
+        {
+          "linux":
+          [
+            "/Users/rolle/Projects/phpcs/scripts/",
+            "/Users/rolle/Projects/phpcs/bin/",
+            "/usr/local/bin/"
+          ],
+          "osx":
+          [
+            "/Users/rolle/Projects/phpcs/scripts/",
+            "/Users/rolle/Projects/phpcs/bin/",
+            "/usr/local/bin/"
+          ],
+          "windows":
+          [
+          ]
+        },
       },
       "sass":
       {
@@ -66,6 +84,23 @@
       "scss":
       {
         "disable": false,
+        "env":{
+          "PATH":"/usr/local/bin:${PATH}"
+        },
+        "paths":
+        {
+          "linux":
+          [
+            "/usr/local/bin/"
+          ],
+          "osx":
+          [
+            "/usr/local/bin/"
+          ],
+          "windows":
+          [
+          ]
+        }        
       },
       "sublimesyntax":
       {
