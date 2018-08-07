@@ -1,1 +1,7 @@
-// These settings override both User and Default settings for the SCSS syntax
+{
+	"extensions":
+	[
+		"scss.erb",
+		"scss"
+	]
+}

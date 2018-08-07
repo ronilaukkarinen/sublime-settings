@@ -1,70 +1,9 @@
 {
-	"adaptive_dividers": false,
 	"auto_complete": true,
-	"auto_complete_commit_on_tab": true,
 	"bold_folder_labels": true,
 	"caret_extra_width": 2,
 	"close_windows_when_empty": false,
 	"color_scheme": "Packages/User/Color Highlighter/themes/Custom-Monokai-Spacegray.tmTheme",
-	"draw_indent_guides": true,
-	"draw_white_space": "none",
-	"extra_file_exclude_patterns":
-	[
-		"*.pyc",
-		"*.pyo",
-		"*.exe",
-		"*.dll",
-		"*.obj",
-		"*.o",
-		"*.a",
-		"*.lib",
-		"*.so",
-		"*.dylib",
-		"*.ncb",
-		"*.sdf",
-		"*.suo",
-		"*.pdb",
-		"*.idb",
-		".DS_Store",
-		"*.class",
-		"*.psd",
-		"*.db",
-		"*.sublime-workspace"
-	],
-	"extra_folder_exclude_patterns":
-	[
-		".svn",
-		".git",
-		".hg",
-		"CVS",
-		"node_modules",
-		"wp",
-		"vendor"
-	],
-	"fade_fold_buttons": false,
-	"file_exclude_patterns":
-	[
-		"*.pyc",
-		"*.pyo",
-		"*.exe",
-		"*.dll",
-		"*.obj",
-		"*.o",
-		"*.a",
-		"*.lib",
-		"*.so",
-		"*.dylib",
-		"*.ncb",
-		"*.sdf",
-		"*.suo",
-		"*.pdb",
-		"*.idb",
-		".DS_Store",
-		"*.class",
-		"*.psd",
-		"*.db",
-		"*.sublime-workspace"
-	],
 	"folder_exclude_patterns":
 	[
 		".svn",
@@ -79,10 +18,9 @@
 	],
 	"font_face": "Hack",
 	"font_size": 14,
-	"highlight_line": true,
+	"highlight_line": false,
 	"ignored_packages":
 	[
-		"Markdown",
 		"Vintage"
 	],
 	"indent_guide_options":
