@@ -1,0 +1,122 @@
+  {
+    // Set to true to print extra information in the console.
+    "debug": true,
+
+    // When in the "background" lint mode, this value determines
+    // a delay before a request is send to the linter
+    "delay": 0.25,
+
+    // Available gutter themes:
+    // Blueberry Cross
+    // Blueberry Round
+    // Circle
+    // Danish Royalty
+    // Default
+    // Hands
+    // Knob
+    // Knob Symbol
+    // Koloria
+    // ProjectIcons
+    // Note that you may need to change the "icon" property in "styles"
+    // to an icon in the theme (they usually include "warning" and "error")
+    "gutter_theme": "Default",
+
+    // Lint Modes determine when the linter is run
+    // background: asynchronously on every change
+    // load_save: when a file is opened and every time it's saved
+    // manual: only when calling the Lint This View command
+    "lint_mode": "background",    
+    "linters":
+    {
+      "csslint":
+      {
+        "disable": false,
+        "args":
+        [
+        ],
+        "errors": "",
+        "excludes":
+        [
+        ],
+        "ignore": "",
+        "warnings": ""
+      },
+      "phpcs":
+      {
+        "disable": false,
+        "standard": "${folder}/content/themes/${project_base_name}/phpcs.xml",
+        "executable": "/Users/rolle/Projects/phpcs/scripts/phpcs",
+        "args": ["--standard=${folder}/content/themes/${project_base_name}/phpcs.xml"],
+        "excludes":
+        [
+        ],
+        "paths":
+        {
+          "linux":
+          [
+            "/Users/rolle/Projects/phpcs/scripts/",
+            "/Users/rolle/Projects/phpcs/bin/",
+            "/usr/local/bin/"
+          ],
+          "osx":
+          [
+            "/Users/rolle/Projects/phpcs/scripts/",
+            "/Users/rolle/Projects/phpcs/bin/",
+            "/usr/local/bin/"
+          ],
+          "windows":
+          [
+          ]
+        },
+      },
+      "sass":
+      {
+        "disable": true,
+        "args":
+        [
+        ],
+        "excludes":
+        [
+        ]
+      },
+      "scss":
+      {
+        "disable": false,
+        "env": {"PATH":"/usr/local/bin/"},
+        "paths":
+        {
+          "linux":
+          [
+            "/usr/local/bin/"
+          ],
+          "osx":
+          [
+            "/usr/local/bin/"
+          ],
+          "windows":
+          [
+          ]
+        }        
+      },
+      "sublimesyntax":
+      {
+        "disable": false,
+        "args":
+        [
+        ],
+        "excludes":
+        [
+        ]
+      }
+    },
+    "no_column_highlights_line": false,
+    "show_marks_in_minimap": true,
+    "syntax_map":
+    {
+      "html (django)": "html",
+      "html (rails)": "html",
+      "html 5": "html",
+      "php": "html",
+      "python django": "python"
+    },
+  }
