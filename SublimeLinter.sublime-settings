@@ -69,18 +69,10 @@
           ]
         },
       },
-      "sass":
+      "scsslint":
       {
-        "disable": true,
-        "args":
-        [
-        ],
-        "excludes":
-        [
-        ]
-      },
-      "scss":
-      {
+        "executable": "/usr/local/bin/ruby",
+        "cmd": "/usr/local/bin/ruby",
         "disable": false,
         "env": {"PATH":"/usr/local/bin/"},
         "paths":
@@ -95,9 +87,10 @@
           ],
           "windows":
           [
+            "/usr/local/bin/"
           ]
         }        
-      },
+      },      
       "sublimesyntax":
       {
         "disable": false,
