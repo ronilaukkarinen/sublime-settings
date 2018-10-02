@@ -41,14 +41,16 @@
         "ignore": "",
         "warnings": ""
       },
+      "sass":
+      {
+        "disable": true
+      },
       "phpcs":
       {
         "disable": false,
         "standard": "${folder}/content/themes/${project_base_name}/phpcs.xml",
         "executable": "/Users/rolle/Projects/phpcs/scripts/phpcs",
-        "args":
-        [
-        ],
+        "args": ["--standard=${folder}/content/themes/${project_base_name}/phpcs.xml"],
         "excludes":
         [
         ],
@@ -71,22 +73,12 @@
           ]
         },
       },
-      "sass":
+      "scsslint":
       {
-        "disable": true,
-        "args":
-        [
-        ],
-        "excludes":
-        [
-        ]
-      },
-      "scss":
-      {
+        "executable": "/usr/local/bin/ruby",
+        "cmd": "/usr/local/bin/ruby",
         "disable": false,
-        "env":{
-          "PATH":"/usr/local/bin:${PATH}"
-        },
+        "env": {"PATH":"/usr/local/bin/"},
         "paths":
         {
           "linux":
@@ -99,9 +91,10 @@
           ],
           "windows":
           [
+            "/usr/local/bin/"
           ]
         }        
-      },
+      },      
       "sublimesyntax":
       {
         "disable": false,
