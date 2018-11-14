@@ -36,6 +36,7 @@
 			"command": "clean_css"
 		}
 	],
+	"original_color_scheme": "Packages/User/Color Highlighter/themes/Custom-Monokai-Spacegray.tmTheme",
 	"overlay_scroll_bars": "false",
 	"scroll_speed": 0.0,
 	"shell_timeout": 30,

@@ -1,5 +1,7 @@
 ## Settings for Sublime Text 3
 
+**Please note:** some of these are outdated in favor of [digitoimistodude/sublime-settings](https://github.com/digitoimistodude/sublime-settings).
+
 My settings, plugins and themes for Sublime Text. Copy, edit or overwrite desired files to your to `Packages/User/`.
 
 All files are symlinked to my Sublime Text Application Support folder, so settings are always up to date.
